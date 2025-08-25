@@ -18,7 +18,7 @@ A complete Flutter Ecommerce & Food Delivery App built with Provider State Manag
 
 1. **Clone or download the project**
    ```bash
-   git clone https://github.com/bhartisahu09/Ecommerce_Food_Delivery_App
+   git clone https://github.com/bhartisahu09/Ecommerce-Food-Delivery-App
    cd delivery_app
    ```
 
